@@ -2,6 +2,8 @@
 
 This repository contains the logos of Kulupu.
 
+![](./klp-gigison-modified.png | width=25%)
+
 ## License
 
 Copyright (c) 2020 Gigson & Jardine. This work is licensed under a
