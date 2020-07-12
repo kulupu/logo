@@ -2,7 +2,7 @@
 
 This repository contains the logos of Kulupu.
 
-![](./klp-gigison-modified.png)
+![](https://github.com/kulupu/logo/raw/master/klp-gigison-modifed.png | width=25%)
 
 ## License
 
